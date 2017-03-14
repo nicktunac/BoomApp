@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BoomApp/ViewController.swift"
+            timestampString = "511115332.279262"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoomApp.ViewController.coolBg.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UIImageView&gt;"
+                  moduleName = "BoomApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicktunac/Documents/xcode/MyPlayground/Paoay%20Kumakaway/BoomApp/BoomApp/ViewController.swift"
+                  timestampString = "511115481.331881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoomApp.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; BoomApp.ViewController"
+                  moduleName = "BoomApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicktunac/Documents/xcode/MyPlayground/Paoay%20Kumakaway/BoomApp/BoomApp/ViewController.swift"
+                  timestampString = "511115481.334469"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BoomApp.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;BoomApp.ViewController&gt;"
+                  moduleName = "BoomApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nicktunac/Documents/xcode/MyPlayground/Paoay%20Kumakaway/BoomApp/BoomApp/ViewController.swift"
+                  timestampString = "511115481.336786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
